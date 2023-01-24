@@ -10,3 +10,5 @@ https://web.calce.umd.edu/batteries/data.htm
 https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830
 - Battery and heating data in Real Drive Cycles
 https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
+- Also find the work Published in IEEE
+https://ieeexplore.ieee.org/document/9951916
