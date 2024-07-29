@@ -1,4 +1,4 @@
-The code files contain python script which uses diffeent neural network algorithms for State of Charge Estimation for Battery Management Systems
+The code files contain python script which uses different neural network algorithms for State of Charge Estimation for Battery Management Systems
 Algorithms :
 - FCN
 - LSTM
